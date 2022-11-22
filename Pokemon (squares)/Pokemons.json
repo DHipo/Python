@@ -1,0 +1,22 @@
+{
+    "Pokemon": {
+        "name": "Charizard", 
+        "type": [
+            "Fire", 
+            "Flying"
+        ],
+        "stats": {
+            "hp": 78,
+            "atk": 84,
+            "def": 78,
+            "spatk": 109,
+            "spdef": 85,
+            "spd": 100
+        },
+        "abilities": {
+            "0": "Blaze",
+            "H": "Solar Power"
+        },
+        "height": 1.7
+    }
+}

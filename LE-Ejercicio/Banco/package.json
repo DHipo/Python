@@ -1,0 +1,14 @@
+{
+  "name": "banco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Bautista D'Hipolito",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.0.8"
+  }
+}
